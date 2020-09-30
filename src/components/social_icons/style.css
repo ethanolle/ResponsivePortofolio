@@ -1,48 +1,48 @@
-.social-icons{
-    text-align: center;
-  }
- 
-  .fb{
-    margin: 2%;
-    color: white;
-  }
+.social-icons {
+  text-align: center;
+}
 
-  .fb:hover{
-    color: #386ddd;
-  }
+.fb {
+  margin: 2%;
+  color: white;
+}
 
-  .git{
-    margin: 2%;
-    color: white;
-  }
+.fb:hover {
+  color: #386ddd;
+}
 
-  .git:hover{
-    color: #16fa01;
-  }
+.git {
+  margin: 2%;
+  color: white;
+}
 
-  .twitter{
-    margin: 2%;
-    color: white;
-  }
+.git:hover {
+  color: #16fa01;
+}
 
-  .twitter:hover{
-    color: #00acee;
-  }
+.StackOverflow {
+  margin: 2%;
+  color: white;
+}
 
-  .insta{
-    margin: 2%;
-    color: white;
-  }
+.StackOverflow:hover {
+  color: #f48024;
+}
 
-  .insta:hover{
-    color: #c1558b;
-  }
+.insta {
+  margin: 2%;
+  color: white;
+}
 
-  .linkedin{
-    margin: 2%;
-    color: white;
-  }
-  
-  .linkedin:hover{
-    color: #0e76a8;
-  }
+.insta:hover {
+  color: #c1558b;
+}
+
+.linkedin {
+  margin: 2%;
+  color: white;
+}
+
+.linkedin:hover {
+  color: #0e76a8;
+}
