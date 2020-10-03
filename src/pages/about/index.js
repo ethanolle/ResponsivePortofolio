@@ -13,11 +13,11 @@ import Particles from 'react-particles-js';
 class About extends Component {
 
   componentDidMount() {
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Ethan Sayagh Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGa.initialize("UA-154721739-1");
     ReactGa.pageview('motasimfoad.com - About Screen');
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Ethan Sayagh Portfolio website Google analytics--
   }
  
   render() {
@@ -25,9 +25,9 @@ class About extends Component {
         <Container className="About-header" fluid={true}>
           <Helmet>
                 <meta charSet="utf-8" />
-                <title>About | Motasim Foad</title>
+                <title>About | Ethan Sayagh</title>
                 <link rel="canonical" href="http://motasimfoad.com/about" />
-                <meta name="description" content="Motasim Foad | About - Product Manager | Project Manager | Software Engineer
+                <meta name="description" content="Ethan Sayagh | About - Product Manager | Project Manager | Software Engineer
                 Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
                 Skilled in leading edge project management, web & software development tools & trends. 
                 Strong computer engineering base with a BSc in Computer Science focused in Computer Software Engineering from BRAC University. 

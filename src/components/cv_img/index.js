@@ -32,7 +32,7 @@ export default class CRI extends Component {
         <Zoom right> 
         <Flip right>
         <div>
-          <img src={cv} onClick={() => this.setState({ isOpen: true })} className="cv_img_mouse" alt="Motasim Foad CV preview"/>
+          <img src={cv} onClick={() => this.setState({ isOpen: true })} className="cv_img_mouse" alt="Ethan Sayagh CV preview"/>
             {isOpen && (
                 <Lightbox
                   mainSrc={images[photoIndex]}
