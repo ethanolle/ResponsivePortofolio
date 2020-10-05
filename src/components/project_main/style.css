@@ -2,15 +2,15 @@
 
 .main_row {
   font-family: "Sulphur Point", sans-serif;
-  margin: 0;
   height: 100%;
   overflow: hidden;
   text-align: center;
+  margin-top: 3em;
 }
 .card_col {
   padding-left: 2%;
   padding-right: 2%;
-  padding-top: 6%;
+  padding-top: 4%;
 }
 
 .card_main {
