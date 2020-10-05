@@ -4,8 +4,8 @@
       "id": 0,
       "name": "LikesBot",
       "tools": "React Hooks, Bootstraps, MongoDB, PaypalAPI",
-      "challenge": "",
-      "solution": "",
+      "challenge": "Learn how to work in a group and make money with a website(IN PROGRESS).  ",
+      "solution": "Create a website that's sell and buy followers and likes automatically for all the famous platform with an excellent UX/UI(Instagram, Facebook, TikTok)",
       "link": false,
       "image": []
     },
@@ -13,8 +13,8 @@
       "id": 1,
       "name": "FamilyPlaces",
       "tools": "ReactJS, Bootstraps, Mongo, Node.js, HTML/CSS",
-      "challenge": "",
-      "solution": "",
+      "challenge": "Creating a full Website to challenge my skills.",
+      "solution": "Make a full custom SocialMedia for my family and me.",
       "link": "https://reactsayagh.web.app/",
       "image": [
         "https://i.ibb.co/y5xtmp3/download-1.png",
@@ -27,8 +27,8 @@
       "id": 2,
       "name": "Url Shortener",
       "tools": "HTML/CSS, MongoDb, Bootstraps",
-      "challenge": "",
-      "solution": "",
+      "challenge": "Learn how to use MongoDB and all of his functionality.",
+      "solution": "Creating a short URL web-app where The Backend will route all the short URLs to the long one ",
       "link": false,
       "image": ["https://i.ibb.co/WyXSjPS/Screenshot-10.png"]
     },
@@ -36,8 +36,8 @@
       "id": 3,
       "name": "CodeCademy WebDev Project Jamming.",
       "tools": "React Hooks, ReactJS, GIT, HTML/CSS, Bootstraps",
-      "challenge": "Designing a one-page app that can be useful for me",
-      "solution": "Creating a project that helps me with my Spotify musics",
+      "challenge": "Creating a one-page app that can be useful for my friends and me",
+      "solution": "Creating a project that helps with Spotify playlists",
       "link": "http://melted-cannon.surge.sh/ ",
       "image": ["https://i.ibb.co/1QMTMTm/Screenshot-2.png"]
     },
