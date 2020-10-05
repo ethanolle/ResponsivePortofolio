@@ -2,9 +2,10 @@
   "data": [
     {
       "id": 0,
-      "name": "SocialBoost",
+      "name": "LikesBot",
       "tools": "React Hooks, Bootstraps, MongoDB, PaypalAPI",
-      "description": "thats a test",
+      "challenge": "",
+      "solution": "",
       "link": false,
       "image": []
     },
@@ -12,8 +13,9 @@
       "id": 1,
       "name": "FamilyPlaces",
       "tools": "ReactJS, Bootstraps, Mongo, Node.js, HTML/CSS",
-      "description": "thats a test",
-      "link": false,
+      "challenge": "",
+      "solution": "",
+      "link": "https://reactsayagh.web.app/",
       "image": [
         "https://i.ibb.co/y5xtmp3/download-1.png",
         "https://i.ibb.co/ChsG3pR/download-2.png",
@@ -25,7 +27,8 @@
       "id": 2,
       "name": "Url Shortener",
       "tools": "HTML/CSS, MongoDb, Bootstraps",
-      "description": "thats a test",
+      "challenge": "",
+      "solution": "",
       "link": false,
       "image": ["https://i.ibb.co/WyXSjPS/Screenshot-10.png"]
     },
@@ -33,7 +36,8 @@
       "id": 3,
       "name": "CodeCademy WebDev Project Jamming.",
       "tools": "React Hooks, ReactJS, GIT, HTML/CSS, Bootstraps",
-      "description": "thats a test",
+      "challenge": "Designing a one-page app that can be useful for me",
+      "solution": "Creating a project that helps me with my Spotify musics",
       "link": "http://melted-cannon.surge.sh/ ",
       "image": ["https://i.ibb.co/1QMTMTm/Screenshot-2.png"]
     },
@@ -41,7 +45,8 @@
       "id": 4,
       "name": "RobotSearchEngine",
       "tools": "ReactJS, Redux, API",
-      "description": "The challenge was to learn better the passing of data (props, state) between the branch in a react project with and without redux. The solution was to create a basic search engine of robots with a search box and in live get a result.  ",
+      "challenge": "upscale my skills in  passing data (props, state) between the branch in a react project with and without redux.",
+      "solution": "Create a basic search engine of robots with a search box and in live get a result.  ",
       "link": "https://ethanolle.github.io/roblox/",
       "image": [
         "https://i.ibb.co/r7b9MSd/Screenshot-1.png",
@@ -52,7 +57,8 @@
       "id": 5,
       "name": "Chuck Norris Generator ",
       "tools": "ReactJS, Bootstraps",
-      "description": "thats a test",
+      "challenge": "Learn to fetch data from extern API.",
+      "solution": "Creating a project with the Axios library and played with it",
       "link": "https://ethanolle.github.io/ChuckFunny/",
       "image": ["https://i.ibb.co/Ct8Bcmf/Screenshot-1.png"]
     },
@@ -60,7 +66,8 @@
       "id": 6,
       "name": "CodeCademy WebDev Project ravenous.",
       "tools": "React Hooks, ReactJS, GIT, HTML/CSS, Bootstraps",
-      "description": "thats a test",
+      "challenge": "Learning HTML/CSS and the basics of developing.",
+      "solution": "Create a basic website page with a predefined model.",
       "link": "http://unusual-zipper.surge.sh/",
       "image": ["https://i.ibb.co/c2JZmF6/Screenshot-3.png"]
     }

@@ -31,9 +31,16 @@ export default class PM extends Component {
                 <footer className="blockquote-footer">
                   built using <strong title="Source Title">{item.tools}</strong>
                 </footer>
+                <br />
                 <p className="description" title="description">
-                  The Challenge & Concept: <br />
-                  <span>{item.description}</span>
+                  <strong>The Challenge:</strong>
+                  <br />
+                  <span>{item.challenge}</span>
+                </p>
+                <p className="description" title="description">
+                  <strong>The Solution:</strong>
+                  <br />
+                  <span>{item.solution}</span>
                 </p>
               </blockquote>
               <Card.Body>
