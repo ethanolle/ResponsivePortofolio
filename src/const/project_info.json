@@ -2,16 +2,21 @@
   "data": [
     {
       "id": 0,
-      "name": "LikesBot",
+      "name": "LikesBot (In progress)",
       "tools": "React Hooks, Bootstraps, MongoDB, PaypalAPI",
       "challenge": "Learn how to work in a group and make money with a website(IN PROGRESS).  ",
       "solution": "Create a website that's sell and buy followers and likes automatically for all the famous platform with an excellent UX/UI(Instagram, Facebook, TikTok)",
       "link": false,
-      "image": []
+      "image": [
+        "https://i.ibb.co/4t4m5Sw/Screenshot-1.png",
+        "https://i.ibb.co/HgxkrRg/Screenshot-2.png",
+        "https://i.ibb.co/X2ZCJCT/Screenshot-3.png",
+        "https://i.ibb.co/LpgFMrg/Screenshot-4.png"
+      ]
     },
     {
       "id": 1,
-      "name": "FamilyPlaces",
+      "name": "SayaghSocial",
       "tools": "ReactJS, Bootstraps, Mongo, Node.js, HTML/CSS",
       "challenge": "Creating a full Website to challenge my skills.",
       "solution": "Make a full custom SocialMedia for my family and me.",
