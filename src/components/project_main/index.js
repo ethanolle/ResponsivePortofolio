@@ -1,12 +1,11 @@
-import React, { Component } from "react";
+import React, { Component, useState } from "react";
 import "../project_main/style.css";
-import { Col, Card, Row } from "react-bootstrap";
+import { Col, Card, Row, Button } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faImages, faLink } from "@fortawesome/free-solid-svg-icons";
 import info from "../../const/project_info.json";
 import Lightbox from "react-image-lightbox";
-
-console.log(info.data);
+import { Link, animateScroll as scroll } from "react-scroll";
 
 export default class PM extends Component {
   constructor(props) {
@@ -19,7 +18,7 @@ export default class PM extends Component {
   }
 
   render() {
-    const { photoIndex, isOpen, image } = this.state;
+    const { photoIndex, isOpen, image, activeIndex, animating } = this.state;
 
     return (
       <Row xl={12} className="main_row">
