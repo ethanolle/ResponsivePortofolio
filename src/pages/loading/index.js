@@ -34,7 +34,7 @@ class Loading extends Component {
           <link rel="canonical" href="http://motasimfoad.com/" />
           <meta
             name="description"
-            content="Ethan Sayagh - Product Manager | Project Manager | Software Engineer"
+            content="Ethan Sayagh - Full Stack Web Developer"
           />
         </Helmet>
         <div className="Loading-header">

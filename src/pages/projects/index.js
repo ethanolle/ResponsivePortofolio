@@ -19,11 +19,7 @@ class Projects extends Component {
           <link rel="canonical" href="http://motasimfoad.com/project" />
           <meta
             name="description"
-            content="Ethan Sayagh | Project - Product Manager | Project Manager | Software Engineer
-                Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
-                Skilled in leading edge project management, web & software development tools & trends. 
-                Strong computer engineering base with a BSc in Computer Science focused in Computer Software Engineering from BRAC University. 
-                In addition to that minor on Basic Business studies to assist me through product & project management"
+            content="Ethan Sayagh | Full Stack Web Developer"
           />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">

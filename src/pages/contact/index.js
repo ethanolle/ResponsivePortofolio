@@ -28,7 +28,7 @@ class Contact extends React.Component {
                 <meta charSet="utf-8" />
                 <title>Contact | Ethan Sayagh</title>
                 <link rel="canonical" href="http://motasimfoad.com/contact" />
-                <meta name="description" content="Ethan Sayagh | Contact - Product Manager | Project Manager | Software Engineer" />
+                <meta name="description" content="Ethan Sayagh | Contact - Full Stack Web Developer" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
           <Particles

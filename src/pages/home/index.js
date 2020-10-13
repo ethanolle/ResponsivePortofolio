@@ -28,7 +28,7 @@ function Home() {
         <link rel="canonical" href="http://motasimfoad.com/home" />
         <meta
           name="description"
-          content="Ethan Sayagh | Home - Product Manager | Project Manager | Software Engineer"
+          content="Ethan Sayagh | Home - Full Stack Web Developer"
         />
       </Helmet>
       <Animate to="1" from="0" attributeName="opacity">
