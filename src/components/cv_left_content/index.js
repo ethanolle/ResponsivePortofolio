@@ -57,7 +57,6 @@ class CLC extends Component {
                   <Link to={"./project"} className="left">
                     <FontAwesomeIcon icon={faHdd} className="left_icon" />
                     <br />
-                    <br />
                     Projects & Experiences
                   </Link>
                   <div className="right">
@@ -66,7 +65,6 @@ class CLC extends Component {
                       icon={faGithubSquare}
                       className="right_icon"
                     />
-                    <br />
                     <br />
                     Git Projects
                   </div>

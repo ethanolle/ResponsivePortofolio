@@ -9,6 +9,10 @@
   padding-top: 30%;
 }
 
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
 .clc_container {
   padding: 2%;
 }
@@ -64,7 +68,6 @@
   color: #ffbb48;
   cursor: pointer;
 }
-
 .about_modal {
   background-color: rgb(9, 9, 9);
 }
