@@ -49,6 +49,7 @@ class CLC extends Component {
             <div className="clc_container">
               <Fade top cascade>
                 <h1 className="clc_header">About</h1>
+                <p></p>
               </Fade>
               <ColoredLine color="#FFC466" />
               <Fade top cascade>
