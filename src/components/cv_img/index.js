@@ -7,10 +7,7 @@ import "react-image-lightbox/style.css";
 import Roll from "react-reveal/Roll";
 import Zoom from "react-reveal/Zoom";
 import Flip from "react-reveal/Flip";
-import { EmailShareButton } from "react-share";
 import { AiOutlineDownload } from "react-icons/ai";
-
-import { EmailIcon } from "react-share";
 
 const images = [cv1];
 
@@ -40,18 +37,12 @@ export default class CRI extends Component {
                 {isOpen && (
                   <Lightbox
                     toolbarButtons={[
-                      // <EmailShareButton
-                      //   url={window.location.href}
-                      //   children={<EmailIcon size={32} round={true} />}
-                      // />,
-                      <AiOutlineDownload
-                        href='/images/myw3schoolsimage.jpg'
-                        download='w3logo'
-                        className='test'
-                        size={25}
-                        // round={true}
-                        // onclick="window.open('file.doc')"
-                      ></AiOutlineDownload>,
+                      <a href='CV.docx' download='CV.docx' className='a_tag'>
+                        <AiOutlineDownload
+                          className='test'
+                          size={25}
+                        ></AiOutlineDownload>
+                      </a>,
                     ]}
                     mainSrc={images[photoIndex]}
                     onCloseRequest={() => this.setState({ isOpen: false })}

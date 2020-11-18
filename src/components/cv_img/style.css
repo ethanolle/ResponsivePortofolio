@@ -3,7 +3,6 @@
   width: 100%;
   max-height: 95vh;
 }
-
 .cv_img_mouse:hover {
   transition: all 0.2s ease-out;
   top: -1px;
@@ -11,11 +10,14 @@
   box-shadow: 0px 4px 35px rgb(255, 255, 255);
 }
 .downloadButton {
-  color: white;
   text-align: center;
 }
 
 .test:hover {
   cursor: pointer;
   color: grey;
+}
+
+.a_tag {
+  all: unset !important;
 }
