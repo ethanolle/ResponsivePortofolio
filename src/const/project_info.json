@@ -2,11 +2,11 @@
   "data": [
     {
       "id": 0,
-      "name": "LikesBot (In progress)",
+      "name": "FameGoal (In progress)",
       "tools": "React Hooks, Bootstraps, MongoDB, PaypalAPI",
       "challenge": "Learn how to work in a group and make money with a website(IN PROGRESS).  ",
       "solution": "Create a website that's sell and buy followers and likes automatically for all the famous platform with an excellent UX/UI(Instagram, Facebook, TikTok)",
-      "link": false,
+      "link":  "https://famegoal-ffcaa.web.app/",
       "image": [
         "https://i.ibb.co/4t4m5Sw/Screenshot-1.png",
         "https://i.ibb.co/HgxkrRg/Screenshot-2.png",
