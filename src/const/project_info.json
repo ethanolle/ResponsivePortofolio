@@ -15,6 +15,20 @@
       ]
     },
     {
+      "id": 7,
+      "name": "Nadlan",
+      "tools": "React, Bootstraps",
+      "challenge": "Create a Website for a real estate agency. They need it Responsive; the primary colour is orange; A form needs to be in the centre and send it directly to a mail.",
+      "solution": "For the responsive part, I used commons breakpoints with CSS, and for the form part, I used EmailJs.",
+      "link":  "http://bingonadlan.web.app/",
+      "image": [
+        "https://i.ibb.co/M5P1vq5/Screenshot-1.png",
+        "https://i.ibb.co/1T65tZY/Screenshot-4.png",
+        "https://i.ibb.co/1bdMYNY/Screenshot-2.png",
+        "https://i.ibb.co/q1cLWPy/Screenshot-3.png"
+      ]
+    },
+    {
       "id": 1,
       "name": "SayaghSocial",
       "tools": "ReactJS, Bootstraps, Mongo, Node.js, HTML/CSS",
