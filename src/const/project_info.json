@@ -6,7 +6,7 @@
       "tools": "React Hooks, Bootstraps, MongoDB, PaypalAPI",
       "challenge": "Learn how to work in a group and make money with a website(IN PROGRESS).  ",
       "solution": "Create a website that's sell and buy followers and likes automatically for all the famous platform with an excellent UX/UI(Instagram, Facebook, TikTok)",
-      "link":  "https://famegoal-ffcaa.web.app/",
+      "link": "https://famegoal-ffcaa.web.app/",
       "image": [
         "https://i.ibb.co/4t4m5Sw/Screenshot-1.png",
         "https://i.ibb.co/HgxkrRg/Screenshot-2.png",
@@ -20,12 +20,24 @@
       "tools": "React, Bootstraps",
       "challenge": "Create a Website for a real estate agency. They need it Responsive; the primary colour is orange; A form needs to be in the centre and send it directly to a mail.",
       "solution": "For the responsive part, I used commons breakpoints with CSS, and for the form part, I used EmailJs.",
-      "link":  "http://bingonadlan.web.app/",
+      "link": "http://bingonadlan.web.app/",
       "image": [
         "https://i.ibb.co/M5P1vq5/Screenshot-1.png",
         "https://i.ibb.co/1T65tZY/Screenshot-4.png",
         "https://i.ibb.co/1bdMYNY/Screenshot-2.png",
         "https://i.ibb.co/q1cLWPy/Screenshot-3.png"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Answers.com Scrapper",
+      "tools": "Cheerio, JS, Regex",
+      "challenge": "Create a Scrapper for the website https://www.answers.com/ getting all the categories, questions, and data on the questions.",
+      "solution": "I decided to use a library called Cheerio to get the data and get the help of Regex to filter only relevant information.",
+      "link": "https://github.com/ethanolle/ScrappingTheWeb",
+      "image": [
+        "https://i.ibb.co/J2WcphY/Screenshot-1.png",
+        "https://i.ibb.co/fSYNmCW/Screenshot-2.png"
       ]
     },
     {
