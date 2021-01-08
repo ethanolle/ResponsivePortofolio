@@ -16,6 +16,15 @@
     },
     {
       "id": 7,
+      "name": "Coca-Cola",
+      "tools": "React, SCSS",
+      "challenge": "Create a Website from a given template made by a designer",
+      "solution": "I decided to use SCSS for the styling and utilized a basic CSS keyframe to animate it.",
+      "link": "https://cocacolascss.web.app/",
+      "image": ["https://i.ibb.co/y8kbqYL/Screenshot-1.png"]
+    },
+    {
+      "id": 7,
       "name": "Nadlan",
       "tools": "React, Bootstraps",
       "challenge": "Create a Website for a real estate agency. They need it Responsive; the primary colour is orange; A form needs to be in the centre and send it directly to a mail.",
@@ -28,6 +37,7 @@
         "https://i.ibb.co/q1cLWPy/Screenshot-3.png"
       ]
     },
+
     {
       "id": 8,
       "name": "Answers.com Scrapper",
@@ -53,15 +63,6 @@
         "https://i.ibb.co/b7XBcfN/download-3.png",
         "https://i.ibb.co/SQy05Zq/download.png"
       ]
-    },
-    {
-      "id": 2,
-      "name": "Url Shortener",
-      "tools": "HTML/CSS, MongoDb, Bootstraps",
-      "challenge": "Learn how to use MongoDB and all of his functionality.",
-      "solution": "Creating a short URL web-app where The Backend will route all the short URLs to the long one ",
-      "link": false,
-      "image": ["https://i.ibb.co/WyXSjPS/Screenshot-10.png"]
     },
     {
       "id": 3,
@@ -101,6 +102,15 @@
       "solution": "Create a basic website page with a predefined model.",
       "link": "http://unusual-zipper.surge.sh/",
       "image": ["https://i.ibb.co/c2JZmF6/Screenshot-3.png"]
+    },
+    {
+      "id": 2,
+      "name": "Url Shortener",
+      "tools": "HTML/CSS, MongoDb, Bootstraps",
+      "challenge": "Learn how to use MongoDB and all of his functionality.",
+      "solution": "Creating a short URL web-app where The Backend will route all the short URLs to the long one ",
+      "link": false,
+      "image": ["https://i.ibb.co/WyXSjPS/Screenshot-10.png"]
     }
   ]
 }
