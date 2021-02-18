@@ -1,12 +1,12 @@
-import React from "react";
-import "../hamburger_menu/style.css";
-import { Link, useHistory } from "react-router-dom";
+import React from 'react';
+import '../hamburger_menu/style.css';
+import { Link, useHistory } from 'react-router-dom';
 
 function Hamburger() {
   let history = useHistory();
 
   const redirectOrRefresh = (page) => {
-    if (window.location.pathname == page) {
+    if (window.location.pathname === page) {
       window.location.reload();
     } else {
       history.push(page);
@@ -14,19 +14,19 @@ function Hamburger() {
   };
 
   return (
-    <div className="menu-wrap">
-      <input type="checkbox" className="toggler" />
-      <div className="hamburger">
+    <div className='menu-wrap'>
+      <input type='checkbox' className='toggler' />
+      <div className='hamburger'>
         <div></div>
       </div>
-      <div className="menu">
+      <div className='menu'>
         <div>
           <div>
             <ul>
               <li>
                 <Link
                   onClick={() => {
-                    redirectOrRefresh("/home");
+                    redirectOrRefresh('/home');
                   }}
                 >
                   HOME
@@ -35,7 +35,7 @@ function Hamburger() {
               <li>
                 <Link
                   onClick={() => {
-                    redirectOrRefresh("/about");
+                    redirectOrRefresh('/about');
                   }}
                 >
                   ABOUT
@@ -44,7 +44,7 @@ function Hamburger() {
               <li>
                 <Link
                   onClick={() => {
-                    redirectOrRefresh("/contact");
+                    redirectOrRefresh('/contact');
                   }}
                 >
                   CONTACT

@@ -15,7 +15,19 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
+      "name": "ShoppyScrapper",
+      "tools": "Puppeteer, React, CSS, Express, Nodejs",
+      "challenge": "Create a Search Engine That can find all the sellers of a product on Shoppy.  ",
+      "solution": "I decided to make a web scraper that, with advanced google research, will find all the sellers. To do that, I used Puppeteer in the backend.",
+      "link": "https://shoppyscrapper.web.app/",
+      "image": [
+        "https://i.ibb.co/6DWQBLB/Screenshot-2.png",
+        "https://i.ibb.co/h98vMLv/Screenshot-1.png"
+      ]
+    },
+    {
+      "id": 8,
       "name": "Coca-Cola",
       "tools": "React, SCSS",
       "challenge": "Create a Website from a given template made by a designer",
