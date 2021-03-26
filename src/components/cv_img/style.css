@@ -21,3 +21,6 @@
 .a_tag {
   all: unset !important;
 }
+img {
+  filter: ;
+}
