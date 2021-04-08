@@ -14,7 +14,7 @@ import { Helmet } from "react-helmet";
 //--Replace with your own key !!
 function Analytics() {
   ReactGa.initialize("UA-154721739-1");
-  ReactGa.pageview("motasimfoad.com - Home Screen");
+  ReactGa.pageview("portfolioreactive.web.app - Home Screen");
 }
 //--Ethan Sayagh Portfolio website Google analytics--
 
@@ -23,26 +23,26 @@ function Home() {
   return (
     <div>
       <Helmet>
-        <meta charSet="utf-8" />
+        <meta charSet='utf-8' />
         <title>Home | Ethan Sayagh</title>
-        <link rel="canonical" href="http://motasimfoad.com/home" />
+        <link rel='canonical' href='http://portfolioreactive.web.app/home' />
         <meta
-          name="description"
-          content="Ethan Sayagh | Home - Full Stack Web Developer"
+          name='description'
+          content='Ethan Sayagh | Home - Full Stack Web Developer'
         />
       </Helmet>
-      <Animate to="1" from="0" attributeName="opacity">
-        <Particles params={particles} className="particle" />
-        <Container className="App-header" fluid={true}>
-          <Row className="App-main">
-            <Col xl={7} className="App-left">
+      <Animate to='1' from='0' attributeName='opacity'>
+        <Particles params={particles} className='particle' />
+        <Container className='App-header' fluid={true}>
+          <Row className='App-main'>
+            <Col xl={7} className='App-left'>
               <HomeLeft />
             </Col>
-            <Col xl={5} className="App-right">
+            <Col xl={5} className='App-right'>
               <HomeRight />
             </Col>
           </Row>
-          <Row className="App-footer">
+          <Row className='App-footer'>
             <Footer />
           </Row>
         </Container>

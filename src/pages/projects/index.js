@@ -12,24 +12,27 @@ import ProjectBody from "../../components/project_main";
 class Projects extends Component {
   render() {
     return (
-      <Container className="About-header" fluid={true}>
+      <Container className='About-header' fluid={true}>
         <Helmet>
-          <meta charSet="utf-8" />
+          <meta charSet='utf-8' />
           <title>Project | Ethan Sayagh</title>
-          <link rel="canonical" href="http://motasimfoad.com/project" />
+          <link
+            rel='canonical'
+            href='http://portfolioreactive.web.app/project'
+          />
           <meta
-            name="description"
-            content="Ethan Sayagh | Full Stack Web Developer"
+            name='description'
+            content='Ethan Sayagh | Full Stack Web Developer'
           />
         </Helmet>
-        <Animate to="1" from="0" attributeName="opacity">
-          <Row className="About-main">
-            <Particles params={particles} className="particle" />
+        <Animate to='1' from='0' attributeName='opacity'>
+          <Row className='About-main'>
+            <Particles params={particles} className='particle' />
             <HamburgerMenu />
             <ProjectBody />
           </Row>
           <br />
-          <Row className="About-footer">
+          <Row className='About-footer'>
             <Footer />
           </Row>
         </Animate>
