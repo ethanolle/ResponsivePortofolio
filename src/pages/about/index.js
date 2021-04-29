@@ -15,29 +15,29 @@ class About extends Component {
     //--Ethan Sayagh Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGa.initialize("UA-154721739-1");
-    ReactGa.pageview("motasimfoad.com - About Screen");
+    ReactGa.pageview("portfolioreactive.web.app - About Screen");
     //--Ethan Sayagh Portfolio website Google analytics--
   }
 
   render() {
     return (
-      <Container className="About-header" fluid={true}>
+      <Container className='About-header' fluid={true}>
         <Helmet>
-          <meta charSet="utf-8" />
+          <meta charSet='utf-8' />
           <title> | Ethan Sayagh</title>
-          <link rel="canonical" href="http://motasimfoad.com/about" />
+          <link rel='canonical' href='portfolioreactive.web.app/about' />
           <meta
-            name="description"
-            content="Ethan Sayagh | About - Full Stack Web Developer"
+            name='description'
+            content='Ethan Sayagh | About - Full Stack Web Developer'
           />
         </Helmet>
-        <Animate to="1" from="0" attributeName="opacity">
-          <Particles params={particles} className="particle" />
-          <Row className="About-main">
+        <Animate to='1' from='0' attributeName='opacity'>
+          <Particles params={particles} className='particle' />
+          <Row className='About-main'>
             <HamburgerMenu />
             <CV />
           </Row>
-          <Row className="About-footer">
+          <Row className='About-footer'>
             <Footer />
           </Row>
         </Animate>

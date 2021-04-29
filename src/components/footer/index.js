@@ -7,7 +7,7 @@ function Footer() {
     <Container className='footer' fluid={true}>
       <Row>
         <Col xl={12}>
-          Copyright © 2018-{new Date().getFullYear()}
+          {/* Copyright © 2018-{new Date().getFullYear()} */}
           <strong>Ethan Sayagh</strong>,
           <small>
             V2.3 - Mail: <strong>ethan.sayagh@gmail.com</strong> - Phone:

@@ -15,7 +15,7 @@ class Loading extends Component {
     //--Ethan Sayagh Portfolio website Google analytics--
     //--Replace with your own key !!
     ReactGA.initialize("UA-154721739-1");
-    ReactGA.pageview("motasimfoad.com - Loading Screen");
+    ReactGA.pageview("portfolioreactive.web.app - Loading Screen");
     //--Ethan Sayagh Portfolio website Google analytics--
   }
 
@@ -25,19 +25,19 @@ class Loading extends Component {
 
   render() {
     return this.state.redirect ? (
-      <Redirect to="/home" />
+      <Redirect to='/home' />
     ) : (
       <div>
         <Helmet>
-          <meta charSet="utf-8" />
+          <meta charSet='utf-8' />
           <title>Ethan Sayagh</title>
-          <link rel="canonical" href="http://motasimfoad.com/" />
+          <link rel='canonical' href='http://portfolioreactive.web.app/' />
           <meta
-            name="description"
-            content="Ethan Sayagh - Full Stack Web Developer"
+            name='description'
+            content='Ethan Sayagh - Full Stack Web Developer'
           />
         </Helmet>
-        <div className="Loading-header">
+        <div className='Loading-header'>
           <PuffLoader size={"40vw"} color={"#fff"} loading={true} />
         </div>
       </div>
